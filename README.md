@@ -8,8 +8,6 @@ Python installed on your system
 OCI SDK installed
 OCI configuration file (config) set up with appropriate credentials
 Installation
-Clone the repository:
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
 
 Install the required dependencies:
 pip install oci
