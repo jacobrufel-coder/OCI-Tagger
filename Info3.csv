@@ -1,0 +1,3 @@
+Hostname,Application,ApplicationOwner,BusinessOwner,CostCenter,DatabaseName,DatabaseOwner,Environment,"LifeCycleStatus	",LOB,PMOID
+shsnindbs01test,Python,Jerry,Syneos,Corporate-4550,Jose,ClarityRecs,DEV,Active,Corporate,BT_2777 - PDC
+shsnindbs01,Foglight,Jacob,Blach,Infrastructure-4510,FD2V,Eric,DEV,Active,Infrastructure,4595 - IEP
