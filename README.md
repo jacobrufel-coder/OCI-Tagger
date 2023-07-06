@@ -1,7 +1,7 @@
-OCI Resource Tagging
+OCI Resource Tagging:
 This script helps in tagging Oracle Cloud Infrastructure (OCI) resources, specifically DB systems and instances, based on information provided in a CSV file.
 
-Prerequisites
+Prerequisites:
 Before running the script, make sure you have the following prerequisites:
 
 Python installed on your system
@@ -39,5 +39,6 @@ Environment: The environment in which the resource is deployed.
 LifeCycleStatus: The current lifecycle status of the resource.
 LOB: The line of business associated with the resource.
 PMOID: The project management office (PMO) ID of the resource.
+
 Logging
 The script uses logging to write information and error messages to the logfile.log file in the same directory. You can refer to this log file for detailed execution logs and any encountered errors.
